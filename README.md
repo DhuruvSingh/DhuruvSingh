@@ -10,7 +10,9 @@
 
 - 🔭 Student at **[Microverse](https://www.microverse.org/)**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’ve Completed my first module of **HTML, CSS and JavaScript**
+
+- 🤠 I’m currently learning **Core JavaScript Concepts**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
