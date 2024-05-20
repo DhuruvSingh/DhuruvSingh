@@ -1,26 +1,26 @@
 <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/></p><hr>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Dhuruv</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Data Analyst | Business Analyst | GDSC Gen AI Alumni</h3>
 <br>
 
 ## 🙋‍♂️ About Me
 
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="400px" height="213px">
 
-- 🔭 Student at **[Microverse](https://www.microverse.org/)**
+- 🔭 Student at **[Jiwaji University](https://jiwaji.edu/)**
 
-- 🌱 I’ve Completed my first module of **HTML, CSS and JavaScript**
+- 🌱 I’ve Completed my Data Analytics Career Track from **SkilloVilla**
 
-- 🤠 I’m currently learning **Core JavaScript Concepts**
+- 🤠 I’m currently learning **Python, Pandas, Numpy and GDCS Gen AI**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Data Analyst Role(Full Time/Intership)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/DhuruvSingh?tab=repositories)**
 
 - 📫 How to reach me **dhuruvs096@gmail.com**
 
-- 💬 Ask me about **Front-End web dev.**
+- 💬 Ask me about **Data/Cloud**
 
 - ⚡ Fun fact **I play games and love to read books.**
 
